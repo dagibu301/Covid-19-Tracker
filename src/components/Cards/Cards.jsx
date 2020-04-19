@@ -3,8 +3,7 @@ import {
   Card,
   CardContent,
   Typography,
-  Grid,
-  StylesProvider,
+  Grid
 } from "@material-ui/core";
 import CountUp from "react-countup";
 
