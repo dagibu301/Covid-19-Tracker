@@ -2,7 +2,11 @@
 
 ## :computer: Description
 
-This app was made to create awareness of the spread of the coronavirus by visualizing the data available by Mathdro API.
+This app is a tracker of the spread of the coronavirus and was made to create awareness by visualizing the data available by Mathdro API.
+
+After the data is fetched from the API, it is displayed in cards: the confirmed, recovered and death cases as well as in a chart below this. There is a chart with historic values for global cases and a bar chart for cases for each country when each country is selected.
+
+The project uses Async/Await syntax to fetch the data from the API, React Hooks to manage the State of functional components, Charts.js for both the line and bar charts and Material UI for styling.
 
 Live Preview: [Very soon](https://google.com/)
 
