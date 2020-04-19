@@ -2,7 +2,7 @@
 
 ## :computer: Description
 
-• This app was made to create awareness of the spread of the coronavirus by visualizing the data available by Mathdro API.
+This app was made to create awareness of the spread of the coronavirus by visualizing the data available by Mathdro API.
 
 Live Preview: [Very soon](https://google.com/)
 
