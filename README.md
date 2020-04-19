@@ -20,7 +20,7 @@ This project was developed using this technologies:
 
 ## :memo: License
 
-This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) para mais detalhes.
+This project is under the license of MIT. See here the archive [LICENSE](LICENSE.md) for more details.
 
 ---
 
