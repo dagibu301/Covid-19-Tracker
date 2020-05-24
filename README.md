@@ -8,7 +8,7 @@ After the data is fetched from the API, it is displayed in cards: the confirmed,
 
 The project uses Async/Await syntax to fetch the data from the API, React Hooks to manage the State of functional components, Charts.js for both the line and bar charts and Material UI for styling.
 
-Live Preview: [COVID-19 Tracker](https://keen-mcnulty-997285.netlify.app/)
+Live Preview: [COVID-19 Tracker](https://covid-19-tracker-dagibu301.netlify.app/)
 
 
 ## :space_invader: Technologies used
